@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1464119511 source:c:\users\pedrofilipe\dropbox\partilhadas polito\simulazione\simulatore\c++\simulator\derivatives.cpp
+	"simulator.h"
+
+1464127260 c:\users\pedrofilipe\dropbox\partilhadas polito\simulazione\simulatore\c++\simulator\simulator.h
+	<iostream>
+	<string>
+	<fstream>
+	<stdio.h>
+	<cstdlib>
+	<string>
+	<sstream>
+	<cmath>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+	"functions.h"
+	"off_sets.h"
+	"airplane_char.h"
+
+1464111486 source:c:\users\pedrofilipe\dropbox\partilhadas polito\simulazione\simulatore\c++\simulator\dynamic.cpp
+	"simulator.h"
+
+1464109125 source:c:\users\pedrofilipe\dropbox\partilhadas polito\simulazione\simulatore\c++\simulator\engine.cpp
+	"simulator.h"
+
+1464119668 source:c:\users\pedrofilipe\dropbox\partilhadas polito\simulazione\simulatore\c++\simulator\input.cpp
+	"simulator.h"
+
+1462895576 source:c:\users\pedrofilipe\dropbox\partilhadas polito\simulazione\simulatore\c++\simulator\integrator.cpp
+	"simulator.h"
+
+1464126169 source:c:\users\pedrofilipe\dropbox\partilhadas polito\simulazione\simulatore\c++\simulator\interpolator.cpp
+	"simulator.h"
+
+1464127223 source:c:\users\pedrofilipe\dropbox\partilhadas polito\simulazione\simulatore\c++\simulator\main.cpp
+	"simulator.h"
+
+1464016745 source:c:\users\pedrofilipe\dropbox\partilhadas polito\simulazione\simulatore\c++\simulator\matrixreader.cpp
+	"simulator.h"
+
+1464109544 source:c:\users\pedrofilipe\dropbox\partilhadas polito\simulazione\simulatore\c++\simulator\teststop.cpp
+	"simulator.h"
+
+1464128984 source:c:\users\pedrofilipe\dropbox\partilhadas polito\simulazione\simulatore\c++\simulator\trim.cpp
+	"simulator.h"
+
+1464112162 source:c:\users\pedrofilipe\dropbox\partilhadas polito\simulazione\simulatore\c++\simulator\save.cpp
+	"simulator.h"
+
+1464119949 c:\users\pedrofilipe\dropbox\partilhadas polito\simulazione\simulatore\c++\simulator\functions.h
+
+1464120429 c:\users\pedrofilipe\dropbox\partilhadas polito\simulazione\simulatore\c++\simulator\off_sets.h
+
+1464120522 c:\users\pedrofilipe\dropbox\partilhadas polito\simulazione\simulatore\c++\simulator\airplane_char.h
+
+1464119693 source:c:\users\pedrofilipe\dropbox\partilhadas polito\simulazione\simulatore\c++\simulator\atmosphere.cpp
+	"simulator.h"
+
